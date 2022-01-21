@@ -1,0 +1,17 @@
+.container {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.date-container {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.input-field {
+    padding: 5px 10px;
+    border-radius: 10px;
+}

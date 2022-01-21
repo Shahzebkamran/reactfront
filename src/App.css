@@ -24,6 +24,10 @@
   color: white;
 }
 
+.hrclass {
+  background-color: rgb(255, 0, 0);
+}
+
 .App-link {
   color: #61dafb;
 }
